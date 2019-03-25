@@ -1,0 +1,24 @@
+D:\pcs4\week 2\week 2 - MyFirstRfidAppWithPhidgets22\week 2 - MyFirstRfidAppWithPhidgets22\obj\Debug\week 2 - MyFirstRfidAppWithPhidgets22.csprojResolveAssemblyReference.cache
+D:\pcs4\week 2\week 2 - MyFirstRfidAppWithPhidgets22\week 2 - MyFirstRfidAppWithPhidgets22\obj\Debug\week_2___MyFirstRfidAppWithPhidgets22.Form1.resources
+D:\pcs4\week 2\week 2 - MyFirstRfidAppWithPhidgets22\week 2 - MyFirstRfidAppWithPhidgets22\obj\Debug\week_2___MyFirstRfidAppWithPhidgets22.Properties.Resources.resources
+D:\pcs4\week 2\week 2 - MyFirstRfidAppWithPhidgets22\week 2 - MyFirstRfidAppWithPhidgets22\obj\Debug\week 2 - MyFirstRfidAppWithPhidgets22.csproj.GenerateResource.Cache
+D:\pcs4\week 2\week 2 - MyFirstRfidAppWithPhidgets22\week 2 - MyFirstRfidAppWithPhidgets22\bin\Debug\week 2 - MyFirstRfidAppWithPhidgets22.exe.config
+D:\pcs4\week 2\week 2 - MyFirstRfidAppWithPhidgets22\week 2 - MyFirstRfidAppWithPhidgets22\bin\Debug\week 2 - MyFirstRfidAppWithPhidgets22.exe
+D:\pcs4\week 2\week 2 - MyFirstRfidAppWithPhidgets22\week 2 - MyFirstRfidAppWithPhidgets22\bin\Debug\week 2 - MyFirstRfidAppWithPhidgets22.pdb
+D:\pcs4\week 2\week 2 - MyFirstRfidAppWithPhidgets22\week 2 - MyFirstRfidAppWithPhidgets22\bin\Debug\Phidget22.NET.dll
+D:\pcs4\week 2\week 2 - MyFirstRfidAppWithPhidgets22\week 2 - MyFirstRfidAppWithPhidgets22\bin\Debug\Phidget22.NET.pdb
+D:\pcs4\week 2\week 2 - MyFirstRfidAppWithPhidgets22\week 2 - MyFirstRfidAppWithPhidgets22\bin\Debug\Phidget22.NET.xml
+D:\pcs4\week 2\week 2 - MyFirstRfidAppWithPhidgets22\week 2 - MyFirstRfidAppWithPhidgets22\obj\Debug\week 2 - MyFirstRfidAppWithPhidgets22.exe
+D:\pcs4\week 2\week 2 - MyFirstRfidAppWithPhidgets22\week 2 - MyFirstRfidAppWithPhidgets22\obj\Debug\week 2 - MyFirstRfidAppWithPhidgets22.pdb
+C:\Bert\pcs4\week 2\week 2 - MyFirstRfidAppWithPhidgets22 final\week 2 - MyFirstRfidAppWithPhidgets22\bin\Debug\week 2 - MyFirstRfidAppWithPhidgets22.exe.config
+C:\Bert\pcs4\week 2\week 2 - MyFirstRfidAppWithPhidgets22 final\week 2 - MyFirstRfidAppWithPhidgets22\bin\Debug\week 2 - MyFirstRfidAppWithPhidgets22.exe
+C:\Bert\pcs4\week 2\week 2 - MyFirstRfidAppWithPhidgets22 final\week 2 - MyFirstRfidAppWithPhidgets22\bin\Debug\week 2 - MyFirstRfidAppWithPhidgets22.pdb
+C:\Bert\pcs4\week 2\week 2 - MyFirstRfidAppWithPhidgets22 final\week 2 - MyFirstRfidAppWithPhidgets22\bin\Debug\Phidget22.NET.dll
+C:\Bert\pcs4\week 2\week 2 - MyFirstRfidAppWithPhidgets22 final\week 2 - MyFirstRfidAppWithPhidgets22\bin\Debug\Phidget22.NET.pdb
+C:\Bert\pcs4\week 2\week 2 - MyFirstRfidAppWithPhidgets22 final\week 2 - MyFirstRfidAppWithPhidgets22\bin\Debug\Phidget22.NET.xml
+C:\Bert\pcs4\week 2\week 2 - MyFirstRfidAppWithPhidgets22 final\week 2 - MyFirstRfidAppWithPhidgets22\obj\Debug\week 2 - MyFirstRfidAppWithPhidgets22.csprojResolveAssemblyReference.cache
+C:\Bert\pcs4\week 2\week 2 - MyFirstRfidAppWithPhidgets22 final\week 2 - MyFirstRfidAppWithPhidgets22\obj\Debug\week_2___MyFirstRfidAppWithPhidgets22.Form1.resources
+C:\Bert\pcs4\week 2\week 2 - MyFirstRfidAppWithPhidgets22 final\week 2 - MyFirstRfidAppWithPhidgets22\obj\Debug\week_2___MyFirstRfidAppWithPhidgets22.Properties.Resources.resources
+C:\Bert\pcs4\week 2\week 2 - MyFirstRfidAppWithPhidgets22 final\week 2 - MyFirstRfidAppWithPhidgets22\obj\Debug\week 2 - MyFirstRfidAppWithPhidgets22.csproj.GenerateResource.Cache
+C:\Bert\pcs4\week 2\week 2 - MyFirstRfidAppWithPhidgets22 final\week 2 - MyFirstRfidAppWithPhidgets22\obj\Debug\week 2 - MyFirstRfidAppWithPhidgets22.exe
+C:\Bert\pcs4\week 2\week 2 - MyFirstRfidAppWithPhidgets22 final\week 2 - MyFirstRfidAppWithPhidgets22\obj\Debug\week 2 - MyFirstRfidAppWithPhidgets22.pdb
